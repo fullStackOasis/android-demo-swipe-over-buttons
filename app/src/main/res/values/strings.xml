@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeOverButtons</string>
+    <string name="btn_upper_left">Upper Left</string>
+    <string name="btn_upper_right">Upper Right</string>
+    <string name="btn_lower_left">Lower Left</string>
+    <string name="btn_lower_right">Lower Right</string>
+</resources>
